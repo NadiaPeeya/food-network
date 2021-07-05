@@ -1,0 +1,67 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+  
+}
+
+p{
+    margin-bottom: 80px;
+}
+#order-food{
+
+    background-image:url(shapes/shape1.jpg);
+    display: flex;
+}
+
+.arranged-flexible{
+    display: flex;
+}
+
+.change-color{
+
+   color: brown;
+   
+}
+
+#about-myself{
+
+    background-image: url(shapes/Frame\ 57.jpg);
+
+    margin-top: 100px;
+    display: flex;
+    margin-bottom: 20%;
+    padding-left: 60px;
+   
+}
+
+
+
+.healthy-color{
+
+    color: rgba(3, 77, 3, 0.788);
+
+}
+.arrange-width{
+
+  padding-left: 40px;
+  
+  
+   
+}
+.orange-color {
+    color:orange;
+}
+.button{
+
+    text-decoration: none;
+    background-image: linear-gradient(crimson , pink);
+    padding: 20px 20px;
+    border-radius: 20px 20px 20px 20px;
+    border-top: orchid;
+    color: pink;
+    font-weight: 50%;
+    
+    
+
+}
