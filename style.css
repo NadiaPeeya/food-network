@@ -11,26 +11,95 @@ p{
 #order-food{
 
     background-image:url(shapes/shape1.jpg);
-    display: flex;
+  
 }
 
 .arranged-flexible{
-    display: flex;
+    display:flex;
+    padding-left: 50px;
+    
 }
+
+.ending-box{
+    border: 10px solid black;
+    padding:10px 50px;
+    width: 50%;
+    margin-left:23%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    box-shadow: 20px 30px 40px rgb(180, 169, 169);
+    background-color: white;
+    border: 10px solid white;
+    border-radius: 10px 10px 10px 10px;
+}
+
 
 .change-color{
 
    color: brown;
    
+
 }
+
+.center{
+    text-align: center;
+    padding: 40px 30px;
+    margin-left: 15%;
+    margin-right: 20%;
+}
+
+#my-recipies{
+
+    padding-right: 10%;
+    margin-left: 80px;
+   
+}
+
+.arranged-width{
+
+}
+
+.solid-border img{
+
+    block-size: 200px;
+    padding-top: 20px;
+    padding-left: 30px;
+    border-radius: 15px;
+   
+}
+
+#subscriber {
+
+    background-image: url(shapes/7.png);
+    
+}
+
+.solid-border{
+
+    border-radius:20px 20px 20px 20px;
+    width: 50%;
+    margin: 5% 5%;
+    border: 10px solid white;
+    box-shadow: 20px 30px 40px rgb(180, 169, 169);
+
+    
+
+    
+}
+
+#subscriber{
+    border: 10 px solid rgb(24, 23, 23);
+}
+
 
 #about-myself{
 
     background-image: url(shapes/Frame\ 57.jpg);
-
-    margin-top: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
     display: flex;
-    margin-bottom: 20%;
+    margin-bottom: 10%;
     padding-left: 60px;
    
 }
@@ -42,13 +111,7 @@ p{
     color: rgba(3, 77, 3, 0.788);
 
 }
-.arrange-width{
 
-  padding-left: 40px;
-  
-  
-   
-}
 .orange-color {
     color:orange;
 }
@@ -64,4 +127,8 @@ p{
     
     
 
+}
+
+footer{
+    text-align: center;
 }
