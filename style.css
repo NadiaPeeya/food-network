@@ -180,11 +180,13 @@ p{
 }
 
 footer{
-    color: #333;
-    font-size: 11px;
+    background: #444444;
+    height: 100px;
     text-align: center;
-    vertical-align: bottom
-    
+    color: #FFFFFF;
+    padding:30px;
+    margin-bottom: 0%;
+    padding-bottom: 80px;
 
   
 }
